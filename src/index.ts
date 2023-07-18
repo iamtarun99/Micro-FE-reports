@@ -1,3 +1,3 @@
-import React from 'react';
+import './bootstrap';
 
-import('./bootstrap');
+export * from  './App';
